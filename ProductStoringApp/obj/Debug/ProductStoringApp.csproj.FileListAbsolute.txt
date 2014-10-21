@@ -1,0 +1,9 @@
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\ProductStoringApp\ProductStoringApp\bin\Debug\ProductStoringApp.exe.config
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\ProductStoringApp\ProductStoringApp\bin\Debug\ProductStoringApp.exe
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\ProductStoringApp\ProductStoringApp\bin\Debug\ProductStoringApp.pdb
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\ProductStoringApp\ProductStoringApp\obj\Debug\ProductStoringApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\ProductStoringApp\ProductStoringApp\obj\Debug\ProductStoringApp.ProductStoringUI.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\ProductStoringApp\ProductStoringApp\obj\Debug\ProductStoringApp.Properties.Resources.resources
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\ProductStoringApp\ProductStoringApp\obj\Debug\ProductStoringApp.csproj.GenerateResource.Cache
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\ProductStoringApp\ProductStoringApp\obj\Debug\ProductStoringApp.exe
+C:\Users\PC21\Documents\Visual Studio 2013\Projects\ProductStoringApp\ProductStoringApp\obj\Debug\ProductStoringApp.pdb
